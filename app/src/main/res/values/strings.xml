@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProjectV3</string>
+    <string name="page_3">Page 3</string>
+    <string name="welcome_to_the_arena_application">Welcome to the ArenA Application</string>
+    <string name="page_2">PAGE 2</string>
+    <string name="page_1">PAGE 1</string>
+    <string name="textview">TextView</string>
+    <string name="page5">Page5</string>
+    <string name="press_play_to_start">Press Play to Start</string>
+    <string name="total_number_of_the_people">Total Number of the People</string>
+    <string name="todo">TODO</string>
+    <string name="to_create_a_user_friendly_experience_for_you_thorughout_the_tour_this_app_was_designed_to_be_used_with_voice_command_once_you_accessed_the_player_tap_and_hold_to_use_commands_play_pause_or_stop_once_you_say_stop_the_application_will_display_the_feedback_screen_enjoy_your_stay">To create a user-friendly experience for you thorughout the tour, this app was designed to be used with voice command. Once you accessed the player, tap and hold to use commands: \'Play\', \'Pause\' or \'Stop\'. Once you say stop, the application will display the feedback screen. Enjoy your stay!</string>
+    <string name="to_create_a_user_friendly_experience_for_you_thorughout_the_tour_this_app_was_designed_to_be_used_with_voice_command_in_order_to_proceed_to_the_player_press_anywhere_on_the_screen_once_you_accessed_the_player_tap_and_hold_to_use_commands_play_pause_or_stop_once_you_say_stop_the_application_will_display_the_feedback_screen_enjoy_your_stay">To create a user-friendly experience for you thorughout the tour, this app was designed to be used with voice command. In order to proceed to the player, press anywhere on the screen. Once you accessed the player, tap and hold to use commands: \'Play\', \'Pause\' or \'Stop\'. Once you say stop, the application will display the feedback screen. Enjoy your stay!</string>
+    <string name="waiting">Waiting!!!</string>
+
+    <string name="thank_you_for_visiting_arena_we_hope_you_enjoyed_your_stay_if_you_are_willing_to_share_your_feedback_with_us_please_tap_and_hold_anywhere_on_the_screen_to_record_a_voice_message_any_type_of_your_feedback_will_stay_anonymous_and_confidential_if_you_do_not_want_to_leave_your_feedback_exit_the_application_hope_to_see_you_soon">Thank you for visiting ArenA! We hope you enjoyed your stay. If you are willing to share your feedback with us, please, tap and hold anywhere on the screen to record a voice message. Any type of your feedback will stay anonymous and confidential. If you do not want to leave your feedback, exit the application. Hope to see you soon</string>
+    <string name="rate_our_app">Rate Our App</string>
+
+
+</resources>
